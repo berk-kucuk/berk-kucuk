@@ -1,8 +1,43 @@
-### What You'll Find Here
-🔐 **Cybersecurity & AI:** My projects focus on creating innovative solutions in cybersecurity and AI.
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berk-kucuk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="160px" />
+  <h2>Berk Kucuk</h2>
+  <code>> AI Engineer · Cybersecurity · Linux</code>
+  <br><br>
+
+  ![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-79c0ff?style=flat-square&labelColor=1c2d4a&color=1c2d4a&logoColor=79c0ff)
+  ![Cybersecurity](https://img.shields.io/badge/Security-f85149?style=flat-square&labelColor=2d1a1a&color=2d1a1a)
+  ![Linux](https://img.shields.io/badge/Linux-3fb950?style=flat-square&labelColor=1f2d1a&color=1f2d1a)
 </div>
+
+---
+
+Building intelligent systems at the intersection of AI and security.  
+I work on threat detection models, autonomous agents, and offensive tooling — mostly in Python, mostly on Linux.
+
+---
+
+### Focus
+
+| Artificial Intelligence | Cybersecurity | Linux & Systems |
+|---|---|---|
+| LLMs, neural networks, autonomous agents, AI-powered security tooling | Penetration testing, threat detection, offensive & defensive research | Kernel internals, OS hardening, shell scripting, terminal-first tooling |
+
+---
+
+### AI / ML Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+
+### Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,mysql,firebase" />
+</p>
+
+---

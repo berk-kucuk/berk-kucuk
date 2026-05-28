@@ -80,11 +80,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=berk-kucuk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berk-kucuk&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="41%"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=berk-kucuk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
 
 </div>

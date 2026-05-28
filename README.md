@@ -8,11 +8,11 @@
 
 <br/>
 
-<a href="https://github.com/berkkucuk">
-  <img src="https://img.shields.io/github/followers/berkkucuk?label=Follow&style=social" />
+<a href="https://github.com/berk-kucuk">
+  <img src="https://img.shields.io/github/followers/berk-kucuk?label=Follow&style=social" />
 </a>
 &nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=berkkucuk&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=berk-kucuk&label=Profile%20views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -79,15 +79,14 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=berkkucuk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkkucuk&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
-</div>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=berk-kucuk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berk-kucuk&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="41%"/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=berkkucuk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=berk-kucuk&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
+
 </div>
 
 <br/>
@@ -95,7 +94,7 @@
 ## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/berkkucuk">
+  <a href="https://linkedin.com/in/berk-kucuk">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -103,7 +102,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/berkkucuk">
+  <a href="https://github.com/berk-kucuk">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>

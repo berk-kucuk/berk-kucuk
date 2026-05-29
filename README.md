@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # Berk Küçük
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Co-Founder+%26+Co-CEO+%40+FluxAI;Building+AI+systems+that+think...;Breaking+systems+that+don't...;LLMs+%7C+Threat+Detection+%7C+Autonomous+Agents)](https://git.io/typing-svg)
@@ -60,7 +60,7 @@ Co-Founder & Co-CEO of **FluxAI** — building AI systems at the intersection of
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Haze**](https://github.com/Berkkucukk) | Anonymous P2P group chat over Tor. No accounts. No logs. No trace. | `Python` `Tor` |
+| [**Haze**](https://github.com/berk-kucuk) | Anonymous P2P group chat over Tor. No accounts. No logs. No trace. | `Python` `Tor` |
 | [**LexForm**](https://lexform.com.tr) | AI platform automating legal document workflows for lawyers | `Python` `NLP` `FastAPI` |
 | [**FluxOS**](https://fluxos.com.tr) | AI-integrated Arch Linux distribution with intelligent system management | `Linux` `Arch` `AI` |
 | [**EntropyShield**](https://entropy-shield.berkkucukk.com) | Layered privacy stack — Tor + DNSCrypt + I2P + Onion Server in one GUI | `Python` `PyQt6` `nftables` |
@@ -73,8 +73,12 @@ Co-Founder & Co-CEO of **FluxAI** — building AI systems at the intersection of
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Berkkucukk&theme=dark&hide_border=true&background=000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Berkkucukk&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide=stars" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=berk-kucuk&theme=dark&hide_border=true&background=000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=berk-kucuk&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide=stars" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=berk-kucuk&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 

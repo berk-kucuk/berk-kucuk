@@ -92,7 +92,7 @@ Co-Founder & Co-CEO of **FluxAI** — building AI systems at the intersection of
   <img src="https://api.microlink.io/?url=https://berkkucukk.com&screenshot=true&meta=false&embed=screenshot.url" width="80%" alt="berkkucukk.com"/>
 </a>
 
-**[→ berkkucukk.com](https://berkkucukk.com)**
+**[→ berkkucukk.com.tr](https://berkkucukk.com.tr)**
 
 </div>
 

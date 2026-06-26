@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/berkkucukk.com-000000?style=flat-square&logo=safari&logoColor=white)](https://berkkucukk.com)
+[![Website](https://img.shields.io/badge/berkkucukk.com.tr-000000?style=flat-square&logo=safari&logoColor=white)](https://berkkucukk.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/berkkucukk)
 [![GitHub followers](https://img.shields.io/github/followers/berk-kucuk?style=flat-square&color=000000&labelColor=000000&logo=github)](https://github.com/berk-kucuk)
 [![Profile Views](https://komarev.com/ghpvc/?username=berk-kucuk&style=flat-square&color=000000&label=views)](https://github.com/berk-kucuk)

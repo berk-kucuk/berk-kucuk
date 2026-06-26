@@ -62,7 +62,7 @@ Co-Founder & Co-CEO of **FluxAI** — building AI systems at the intersection of
 |---|---|---|
 | [**Haze**](https://github.com/berk-kucuk) | Anonymous P2P group chat over Tor. No accounts. No logs. No trace. | `Python` `Tor` |
 | [**LexForm**](https://lexform.com.tr) | AI platform automating legal document workflows for lawyers | `Python` `NLP` `FastAPI` |
-| [**FluxOS**](https://fluxos.com.tr) | AI-integrated Arch Linux distribution with intelligent system management | `Linux` `Arch` `AI` |
+| [**Maze Linux**](https://mazelinux.berkkucukk.com.tr) | AI-integrated Arch Linux distribution with intelligent system management | `Linux` `Arch` `AI` |
 | [**EntropyShield**](https://entropy-shield.berkkucukk.com) | Layered privacy stack — Tor + DNSCrypt + I2P + Onion Server in one GUI | `Python` `PyQt6` `nftables` |
 | [**Gaze**](https://gaze.berkkucukk.com) | Connection leak tester — WebRTC, DNS, IPv6, browser fingerprinting | `JavaScript` `Privacy` |
 | [**Linux Chan AI**](https://github.com/berk-kucuk/Linux-Chan-AI) | Anime-style AI desktop assistant with voice, shell execution, multi-agent routing | `PyQt5` `Gemini` `gTTS` |

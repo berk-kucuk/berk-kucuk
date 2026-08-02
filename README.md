@@ -74,7 +74,6 @@ Co-Founder & Co-CEO of **FluxAI** — building AI systems at the intersection of
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=berk-kucuk&theme=dark&hide_border=true&background=000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=berk-kucuk&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide=stars" width="49%"/>
 
 <br/><br/>
 

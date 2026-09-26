@@ -75,10 +75,6 @@ Co-Founder & Co-CEO of **FluxAI** — building AI systems at the intersection of
 
 <img src="https://streak-stats.demolab.com?user=berk-kucuk&theme=dark&hide_border=true&background=000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=berk-kucuk&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-
 </div>
 
 ---
@@ -88,7 +84,7 @@ Co-Founder & Co-CEO of **FluxAI** — building AI systems at the intersection of
 <div align="center">
 
 <a href="https://berkkucukk.com.tr">
-  <img src="https://api.microlink.io/?url=https://berkkucukk.com.tr&screenshot=true&meta=false&embed=screenshot.url" width="80%" alt="berkkucukk.com"/>
+  <img src="https://api.microlink.io/?url=https://berkkucukk.com.tr&screenshot=true&meta=false&embed=screenshot.url" width="80%" alt="berkkucukk.com.tr"/>
 </a>
 
 **[→ berkkucukk.com.tr](https://berkkucukk.com.tr)**
